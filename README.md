@@ -1,2 +1,3 @@
 # weatherApp
-It is a weatherApp. My first attempt at creating real project
+
+Simple Weather App that fetches live weather data using an API.
